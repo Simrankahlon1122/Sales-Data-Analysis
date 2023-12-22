@@ -13,3 +13,11 @@ Key stages included:
 4. Crafted impactful visualizations and detailed reports in Report View for insightful sales and revenue analysis. 📊🔍
 5. Unraveled main trends, tracked key variations, and examined product, customer, and regional trends, sales, returns, revenue and profit. Integrated tooltips for added detail and clarity. 🔍
 6. This project honed my data exploration skills, providing valuable expertise and new insights.
+
+![Executive-Dashboard](https://github.com/Simran93/Sales-Data-Analysis/assets/47301732/95eb0089-b79b-45da-919b-f2d1be175ffd)
+![Customer-Details-Dashboard](https://github.com/Simran93/Sales-Data-Analysis/assets/47301732/2a02b56a-90ba-45ca-9414-e7aee1cac79f)
+![Product-Specific-Dashboard](https://github.com/Simran93/Sales-Data-Analysis/assets/47301732/f3b13907-7bb7-4685-81f1-c00e27b8c915)
+![Regional-Revenue -Data](https://github.com/Simran93/Sales-Data-Analysis/assets/47301732/e0151460-9cc4-4426-a32d-6f57dae4ba7b)
+
+
+
