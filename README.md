@@ -7,7 +7,7 @@ Implemented a comprehensive business intelligence workflow, mastering Power BI c
 
 Key stages included:
 
-1. Loaded and transformed data using Power Query, optimizing information for analysis. 
+1. Loaded the data using Dataflows, profiled and transformed it using Power Query, optimizing information for analysis. 
 2. Connected Data tables with Look up tables,structured the data model in Model View for consistent representation.
 3. Enhanced the data layer with calculated columns, measures, and Table features in Data View using DAX language. 
 4. Crafted impactful visualizations and detailed reports in Report View for insightful sales and revenue analysis, segmentation of producst, and product category performance.
